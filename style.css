@@ -1,0 +1,14 @@
+/* selector por etiqueta */
+section h2 { 
+    color: rgb(255, 77, 0);
+
+}
+
+.azul {
+    color: blue;
+} 
+
+header {
+    color: darkgreen;
+
+}
